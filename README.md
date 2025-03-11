@@ -1,6 +1,5 @@
-<p align="center" style="font-size: 36px; font-weight: bold;">
-  Colin Buchheit
-</p>
+<h1 align="center">Colin Buchheit</h1>
+
 
 
 <p align="center">
