@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 30px; font-weight: bold;">
+<p align="center" style="font-size: 100px; font-weight: bold;">
   Colin Buchheit
 </p>
 
@@ -96,8 +96,7 @@ Experience in **penetration testing, SQL injection, and network security**.
 ## **📊 GitHub Stats & Activity**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ColinBuchheit&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ColinBuchheit&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColinBuchheit&layout=compact&theme=radical"height="180px" />
+  <img src="https://streak-stats.demolab.com/?user=ColinBuchheit&theme=radical" height="180px"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColinBuchheit&layout=compact&theme=radical"height="180px" />
   <img src="https://github-profile-trophy.vercel.app/?username=ColinBuchheit&theme=gruvbox&margin-w=15&column=8"/>
 
 
