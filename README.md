@@ -13,7 +13,7 @@ Hi! My name is Colin Buchheit, and I’m a recent graduate from the University o
 
 I enjoy developing intelligent systems, optimizing workflows, and building scalable applications.  
 
-- **Incoming MAS Consulting Associate at RSM (Starting July 2025)**  
+- **Incoming MAS Consulting Associate at RSM (Starting October 2025)**  
 - **1st Place – 2023 Mizzou Hackathon (TigerHacks)**  
 - **Google IT Support & Cybersecurity Certified**  
 - **GPA:** **Overall: 3.72 | Major: 3.95**  
