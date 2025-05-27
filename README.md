@@ -9,9 +9,9 @@
 ---
 
 ## **👋 About Me**  
-Hi! My name is **Colin Buchheit**, and I’m a **senior at the University of Missouri**, graduating in **May 2025** with a focus on **AI Agent Development, Machine Learning, and Full-Stack Development**.  
+Hi! My name is Colin Buchheit, and I’m a recent graduate from the University of Missouri, graduated in May 2025 with a focus on AI Agent Development, Machine Learning, and Full-Stack Development.  
 
-I enjoy **developing intelligent systems, optimizing workflows, and building scalable applications**.  
+I enjoy developing intelligent systems, optimizing workflows, and building scalable applications.  
 
 - **Incoming MAS Consulting Associate at RSM (Starting July 2025)**  
 - **1st Place – 2023 Mizzou Hackathon (TigerHacks)**  
