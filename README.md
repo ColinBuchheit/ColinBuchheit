@@ -16,7 +16,7 @@ I enjoy developing intelligent systems, optimizing workflows, and building scala
 - **Incoming MAS Consulting Associate at RSM (Starting October 2025)**  
 - **1st Place – 2023 Mizzou Hackathon (TigerHacks)**  
 - **Google IT Support & Cybersecurity Certified**  
-- **GPA:** **Overall: 3.72 | Major: 3.95**  
+- **GPA:** **Overall: 3.78 | Major: 3.95**  
 
 ### **💼 Internship Experience**  
 During my internship at **MX Holdings** as a Enterprise Software Developer, I worked on developing an **AI-powered chatbot** for **verified users** to purchase aluminum and check prices amongst other projects.  
