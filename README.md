@@ -15,7 +15,7 @@ I enjoy developing intelligent systems, optimizing workflows, and building scala
 
 - **Incoming MAS Consulting Associate at RSM (Starting October 2025)**  
 - **1st Place – 2023 Mizzou Hackathon (TigerHacks)**  
-- **Google IT Support & Cybersecurity Certified**  
+- **Microsoft Certified: Azure AI Engineer Associate**  
 - **GPA:** **Overall: 3.78 | Major: 3.95**  
 
 ### **💼 Internship Experience**  
